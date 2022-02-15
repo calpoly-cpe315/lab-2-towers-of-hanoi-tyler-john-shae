@@ -1,12 +1,15 @@
 # CPE 315 Lab 2 Towers of Hanoi
-Towers of Hanoi
 
-Add your name and project status here.
+## Group Members and Github Accounts 
+Tyler Bovenzi: tylerbovenzi
 
-The ``towers.s`` file is what you will modifiy. There are comments
-to guide your implementation.
+Shae Li: wwo233
 
-The ``towers.cpp`` file is for your reference so you can see what your
-assembly language program is supposed to do.
+John Kroska: jkroska
 
-Sample outputs are contained in the outputs directory.
+
+The asembly program towers.s mimics the C++ program towers.cpp to solve the towers of hanoi puzzle.
+
+And output the step of each move as well as the total number of move.
+
+The asembly and cpp programs prompt ```Enter the number of disks to be moved:  ``` to request the user to enter an integer. This is slightly different than the output.txt which use  discs instead of disks. 

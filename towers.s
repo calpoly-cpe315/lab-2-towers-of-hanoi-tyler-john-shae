@@ -177,7 +177,7 @@ printdata:
 string0:
 	.asciz	"Move from peg %d to peg %d\n"
 string1:
-	.asciz	"Enter number of discs to be moved: "
+	.asciz	"Enter the number of disks to be moved: "
 string2:
 	.asciz	"%d"
 	.space	1
